@@ -7,5 +7,4 @@ i have second change.
 Creating a new branch is quick and simple.
 i just want to fix 
 do you have mind?
-
-bug is fixed.
+bug is fixed..............

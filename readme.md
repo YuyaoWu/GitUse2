@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 i have first change.
 i have second change.
 3.14 change
-4.add branch dev test
+Creating a new branch is quick & simple.
